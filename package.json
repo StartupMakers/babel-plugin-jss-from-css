@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-jss-from-postcss",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Plugin for preparing sources for JSS from PostCSS",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "lib",
     "src"
   ],
-  "repository": "https://github.com/axept/babel-plugin-jss-from-css.git#postcss",
+  "repository": "git://github.com/axept/babel-plugin-jss-from-css.git#postcss",
   "author": "Axept <office@axept.co>",
   "license": "MIT",
   "dependencies": {
