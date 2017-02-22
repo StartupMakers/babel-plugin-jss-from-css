@@ -1,7 +1,7 @@
 {
-  "name": "babel-plugin-jss-from-css",
+  "name": "babel-plugin-jss-from-postcss",
   "version": "0.0.1",
-  "description": "Plugin for preparing sources for JSS from CSS",
+  "description": "Plugin for preparing sources for JSS from PostCSS",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rm -rf lib/*",
