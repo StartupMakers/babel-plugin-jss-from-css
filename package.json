@@ -1,7 +1,7 @@
 {
-  "name": "babel-plugin-prejss",
+  "name": "babel-plugin-jss-from-css",
   "version": "0.0.1",
-  "description": "Plugin for preparing sources for JSS by PostCSS",
+  "description": "Plugin for preparing sources for JSS from CSS",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rm -rf lib/*",
@@ -18,8 +18,8 @@
     "lib",
     "src"
   ],
-  "repository": "https://github.com/lttb/babel-plugin-prejss.git",
-  "author": "lttb <connect@lttb.net>",
+  "repository": "https://github.com/axept/babel-plugin-jss-from-css.git",
+  "author": "Axept <office@axept.co>",
   "license": "MIT",
   "dependencies": {
     "deasync": "^0.1.9",
@@ -35,7 +35,6 @@
     "sugarss": "^0.2.0"
   },
   "devDependencies": {
-    "@lttb/eslint-config-default": "https://github.com/lttb/configs#js",
     "babel-cli": "^6.23.0",
     "babel-core": "^6.23.1",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.23.0",
